@@ -1,7 +1,5 @@
 package com.system_design.lld.NotificationSystem;
 
-import java.util.HashMap;
-
 public class EmailNotification extends Notification {
     private final String subject;
 
